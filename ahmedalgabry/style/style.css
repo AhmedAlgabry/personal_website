@@ -448,6 +448,7 @@ input[type=text], select, textarea {
       transform:rotateX(1turn) scale(1.5);
       transition: 1s;
       cursor:pointer;
+      z-index: 5;
 
   }
   #cer{
